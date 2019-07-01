@@ -1,0 +1,2 @@
+CardImage : https://playhearthstone.com/ko-kr/cards
+Music : https://bgmstore.net/

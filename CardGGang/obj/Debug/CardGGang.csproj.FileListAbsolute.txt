@@ -1,0 +1,10 @@
+C:\Users\qkrdy\source\repos\CardGGang\CardGGang\bin\Debug\CardGGang.exe.config
+C:\Users\qkrdy\source\repos\CardGGang\CardGGang\bin\Debug\CardGGang.exe
+C:\Users\qkrdy\source\repos\CardGGang\CardGGang\bin\Debug\CardGGang.pdb
+C:\Users\qkrdy\source\repos\CardGGang\CardGGang\obj\Debug\CardGGang.csprojAssemblyReference.cache
+C:\Users\qkrdy\source\repos\CardGGang\CardGGang\obj\Debug\CardGGang.Form1.resources
+C:\Users\qkrdy\source\repos\CardGGang\CardGGang\obj\Debug\CardGGang.Properties.Resources.resources
+C:\Users\qkrdy\source\repos\CardGGang\CardGGang\obj\Debug\CardGGang.csproj.GenerateResource.cache
+C:\Users\qkrdy\source\repos\CardGGang\CardGGang\obj\Debug\CardGGang.csproj.CoreCompileInputs.cache
+C:\Users\qkrdy\source\repos\CardGGang\CardGGang\obj\Debug\CardGGang.exe
+C:\Users\qkrdy\source\repos\CardGGang\CardGGang\obj\Debug\CardGGang.pdb
